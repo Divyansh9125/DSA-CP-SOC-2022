@@ -1,5 +1,0 @@
-Resources:
-Geeksforgeeks
-https://cses.fi/problemset/
-LeetCode
-CodeChef
