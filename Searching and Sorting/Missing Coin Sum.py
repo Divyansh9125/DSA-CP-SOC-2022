@@ -4,7 +4,7 @@ def check(arr, val):
     i = 0
     j = 0
     temp = arr[0]
-    while arr[j]<val:
+    while arr[j]<val and j<len(arr):
         if val==temp:
             return False
         elif val>temp:
