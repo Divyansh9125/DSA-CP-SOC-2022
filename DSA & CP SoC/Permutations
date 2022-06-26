@@ -1,0 +1,18 @@
+#include <iostream>
+ 
+using namespace std;
+ 
+int main()
+{
+ long int i;
+ long int j;
+ long int n;
+ cin>>n;
+ if(n==2 || n==3){ cout<<"NO SOLUTION";}
+ for(i=1;i<=n;i++){
+     if(i%2==0 && n!=2 && n!=3){cout<<i<<" ";}
+ }
+ for(j=1; j<=n; j++){
+     if(j%2!=0 && n!=2 && n!=3){cout<<j<<" ";}
+ }
+    }
