@@ -5,7 +5,7 @@ long long n;
 long long divide(long long gap, long long p, long long sorted[])
 {
     long long loc = search(sorted, p), newgap = sorted[loc+1]-sorted[loc-1];
-
+    
 }
 
 long long search(long long arr[], long long f)

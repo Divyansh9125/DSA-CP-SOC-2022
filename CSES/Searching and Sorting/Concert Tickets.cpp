@@ -48,10 +48,7 @@ int main()
         else
         {
             cout<<h[c]<<" ";
-            for (int i = c; i < n-1; i++)
-            {
-                h[i]=h[i+1];
-            }
+            h[c]=-1;
             n--;
         }
     }
