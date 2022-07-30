@@ -21,5 +21,5 @@ It is divided into two parts.
   Week 10 - Endsems__
   Week 11 - Deque__
   Week 12 - Tree & Binary Tree__
-  Week 13 - Heap, Graph & Greedy, Backtracking__
+  Week 13 - Heap, Graph & Greedy, Backtracking
  
