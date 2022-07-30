@@ -1,4 +1,9 @@
 # DSA-CP-SOC-2022
-This is repository containing the codes and progress of all the candidates in the project Data Structures Algorithms &amp; CP for Summer of Code 2022
+This repositery contains all codes that I have written for this project
 
-Progress tracker and Resources Doc: https://docs.google.com/document/d/1DaaT0Yu9N8U7OARBiPCa7UooAUJsrufy0ipV-XnhW3w/edit?usp=sharing
+It is divided into two parts. 
+1)  GFG
+  It contains all solutions to problems on GFG portal related to the topic I have learnt. They are stored in .docx format with the title of the problem and the following code below it.
+  
+2)  CSES
+  This contains solutions the problems on CSES website. They contain subfolders with name of topic which then contain the problems in .py or .cpp file. The starting part is written in python but I later switched to c++ as I realised that same algorithm took much more time on python.
